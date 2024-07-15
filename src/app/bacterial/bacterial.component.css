@@ -1,0 +1,17 @@
+.bg-con{
+    padding: 8px;
+    border-width: 2px;
+    border-style: solid;
+    /*background-image: url("https://img.freepik.com/free-vector/purple-watercolor-gradient-with-bokeh-light-background_53876-95746.jpg");*/
+    background-image: url("https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-52379.jpg?w=1060&t=st=1689784939~exp=1689785539~hmac=ac9b5879e0aa102da04f3dc1453e7592f0ddbc326748e885e9f453bd95910d5d");
+    background-size: cover;
+    text-align: center;
+}
+span{
+    font-weight: 500;
+    color: black
+}
+
+img{
+    margin: 5px;
+}

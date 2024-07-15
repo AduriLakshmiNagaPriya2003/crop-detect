@@ -1,0 +1,30 @@
+
+
+.library-section {
+   background-image: url("https://media.istockphoto.com/id/1401572470/photo/light-blue-paper-texture-background.jpg?b=1&s=170667a&w=0&k=20&c=0wpsWZaKVbVaSGXQl5vNWx94Xyw-M55D9J79fDn3uo0=");
+}
+
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.image {
+    border-radius: 16px;
+    height: 250px;
+}
+
+.title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.card {
+    border-radius: 16px;
+    
+}
